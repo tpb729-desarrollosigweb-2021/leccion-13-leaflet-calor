@@ -1,6 +1,6 @@
 # Leaflet - mapas de calor (*heat maps*)
 ## Leaflet.heat
-El complemento [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) simplifica la elaboración de [mapas de calor (*heat maps*)](https://github.com/Leaflet/Leaflet.heat).
+El complemento [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) simplifica la elaboración de [mapas de calor (*heat maps*)](https://es.wikipedia.org/wiki/Mapa_de_calor).
 
 Para utilizarse, primero debe incluirse el enlaces al archivo JavaScript del complemento. 
 
